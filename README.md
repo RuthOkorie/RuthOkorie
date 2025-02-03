@@ -6,7 +6,7 @@ I recently completed the **Google Data Analytics Professional Certificate**, whe
 ## 🎓 Certification  
 I have successfully completed the **Google Data Analytics Professional Certificate** on Coursera.  
 
-📜 **[View My Certificate](https://github.com/RuthOkorie/files/18646167/Coursera.Specialization.Certificate.pdf)** 
+📜 **[Coursera Specialization Certificate.pdf](https://github.com/user-attachments/files/18646268/Coursera.Specialization.Certificate.pdf)** 
  
 ## 🛠️ Tools & Skills  
 - **Data Analysis:** SQL, Excel, Power BI, Google Sheets  
