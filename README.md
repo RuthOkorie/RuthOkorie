@@ -21,7 +21,7 @@ I have successfully completed the **Google Data Analytics Professional Certifica
 📌 Check out my projects **[here](https://github.com/RuthOkorie?tab=repositories)**!  
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/Ruth Chinasa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/RuthChinasa/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/RuthOkorie)  
 📧 Email: [ruthchinasa633@gmail.com](mailto:ruthchinasa633@gmail.com)
 
